@@ -1,5 +1,5 @@
 # CryptoBar
-A very simple MenuBar app that shows the price of 3 cryptocurrencies:
+A very simple MenuBar app that shows the price of the following cryptocurrencies:
 - Bitcoin
 - Ether
 - XRP
