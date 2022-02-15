@@ -14,4 +14,3 @@ While this is just a very simple app that displays the price of a set of cryptoc
 ## References
 - [Py2App](https://py2app.readthedocs.io/en/latest/tutorial.html#create-a-setup-py-file)
 - [Creating macOS App](https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/)
-- 
