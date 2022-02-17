@@ -6,7 +6,7 @@ A very simple MenuBar app that shows the price of the following cryptocurrencies
 
 
 ## Screenshot 
-<img width="1677" alt="Screenshot 2022-02-15 at 18 08 08" src="https://user-images.githubusercontent.com/64978825/154128369-e9d64f2b-9fd5-4fcc-a38c-266368db85e4.png">
+<img width="1680" alt="Screenshot 2022-02-17 at 15 17 11" src="https://user-images.githubusercontent.com/64978825/154512003-41d5d01c-d6e5-4d2d-9a3d-8b474c1d5f42.png">
 
 ## Goals
 While this is just a very simple app that displays the price of a set of cryptocurrencies, the goal is to create a more feature rich application that displays chart data for a basket of other cryptocurrencies and potentially also incorporate a news section aswell.
