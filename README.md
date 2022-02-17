@@ -1,8 +1,5 @@
 # CryptoBar
-A very simple MenuBar app that shows the price of the following cryptocurrencies:
-- Bitcoin
-- Ether
-- XRP
+A very simple MenuBar app that shows the price of the the top 10 Cryptocurrencies via the CoinGecko-API
 
 
 ## Screenshot 
