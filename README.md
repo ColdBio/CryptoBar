@@ -8,6 +8,9 @@ A very simple MenuBar app that shows the price of the the top 10 Cryptocurrencie
 ## Goals
 While this is just a very simple app that displays the price of a set of cryptocurrencies, the goal is to create a more feature rich application that displays chart data for a basket of other cryptocurrencies and potentially also incorporate a news section aswell.
 
+## Issues
+Please see the Issues tab regarding this project beforehand.
+
 ## References
 - [Py2App](https://py2app.readthedocs.io/en/latest/tutorial.html#create-a-setup-py-file)
 - [Creating macOS App](https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/)
